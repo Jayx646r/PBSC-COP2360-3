@@ -25,7 +25,7 @@ class Program
     static void Main(string[] args)
     {
         // Create an instance of the Octopus Class
-        Octopus octopus = new Octopus("Jacoby", 24);
+        Octopus octopus = new Octopus("Justice", 24);
 
         // Display the information regarding the Octopus 
         octopus.DisplayInfo();
